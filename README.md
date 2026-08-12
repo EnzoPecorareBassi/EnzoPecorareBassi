@@ -34,7 +34,7 @@ current_phase:
   - "Practicing"
   - "Improving"
 ```
-
+---
 <table>
   <tr>
     <th align="left">Área</th>
