@@ -55,5 +55,14 @@ current_phase:
   - "Practicing"
   - "Improving"
 
-mindset:
-  "Consistency > Perfection"
+# `07 // GITHUB PERFORMANCE`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EnzoPecorareBassi&bg_color=050505&color=00F0FF&line=7B61FF&point=00F0FF&area=false&hide_border=true&custom_title=EnzoPecorareBassi%20Contribution%20Graph" width="90%"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EnzoPecorareBassi&theme=transparent&hide_border=true&background=050505&ring=00F0FF&fire=7B61FF&currStreakLabel=00F0FF&sideLabels=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8B949E" width="90%"/>
+
+</div>
