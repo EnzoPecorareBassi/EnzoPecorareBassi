@@ -36,24 +36,24 @@ current_phase:
 
 <table>
   <tr>
-    <th>Área</th>
-    <th>Conhecimento</th>
+    <th align="left">Área</th>
+    <th align="center">Conhecimento</th>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=html" width="20"/> HTML</td>
-    <td>90%</td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=html" width="20"/> HTML</td>
+    <td align="center">90%</td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=css" width="20"/> CSS</td>
-    <td>85%</td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=css" width="20"/> CSS</td>
+    <td align="center">85%</td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=mysql" width="20"/> SQL</td>
-    <td>30%</td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=mysql" width="20"/> SQL</td>
+    <td align="center">30%</td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=python" width="20"/> Python</td>
-    <td>10%</td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=python" width="20"/> Python</td>
+    <td align="center">10%</td>
   </tr>
 </table>
 
