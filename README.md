@@ -71,4 +71,4 @@ current_phase:
 <br><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=EnzoPecorareBassi&theme=transparent&hide_border=true&background=050505&ring=00F0FF&fire=7B61FF&currStreakLabel=00F0FF&sideLabels=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8B949E" width="90%"/>
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:0b1020,100:050505&height=150&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0b1020,100:00f0ff&height=150&section=footer&animation=fadeIn" width="100%"/>
