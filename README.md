@@ -61,6 +61,33 @@ current_phase:
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=EnzoPecorareBassi&bg_color=050505&color=00F0FF&line=7B61FF&point=00F0FF&area=false&hide_border=true&custom_title=EnzoPecorareBassi%20Contribution%20Graph" width="90%"/>
 
+<table>
+  <tr>
+    <th>Área</th>
+    <th>Conhecimento</th>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=python" width="20"/> Python</td>
+    <td><img src="https://progress-bar.dev/95/?scale=100&width=200&color=babaca&suffix=%20" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=mysql" width="20"/> SQL</td>
+    <td><img src="https://progress-bar.dev/75/?scale=100&width=200&color=babaca&suffix=%20" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=networking" width="20"/> Redes</td>
+    <td><img src="https://progress-bar.dev/85/?scale=100&width=200&color=babaca&suffix=%20" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=git,github" width="20"/> Git / GitHub</td>
+    <td><img src="https://progress-bar.dev/75/?scale=100&width=200&color=babaca&suffix=%20" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=html" width="20"/> Web</td>
+    <td><img src="https://progress-bar.dev/75/?scale=100&width=200&color=babaca&suffix=%20" /></td>
+  </tr>
+</table>
+
 <br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=EnzoPecorareBassi&theme=transparent&hide_border=true&background=050505&ring=00F0FF&fire=7B61FF&currStreakLabel=00F0FF&sideLabels=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8B949E" width="90%"/>
