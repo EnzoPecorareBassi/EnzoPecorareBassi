@@ -37,24 +37,25 @@ current_phase:
 <table>
  
   <tr>
+    <tr>
     <th>Área</th>
     <th>Conhecimento</th>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=html" width="20"/> HTML</td>
-    <td><img src="https://progress-bar.dev/90/?scale=100&width=200&color=babaca&suffix=%20" /></td>
+    <td>🟧 HTML</td>
+    <td>90%</td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=css" width="20"/> CSS</td>
-    <td><img src="https://progress-bar.dev/85/?scale=100&width=200&color=babaca&suffix=%20" /></td>
+    <td>🟦 CSS</td>
+    <td>85%</td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=mysql" width="20"/> SQL</td>
-    <td><img src="https://progress-bar.dev/30/?scale=100&width=200&color=babaca&suffix=%20" /></td>
+    <td>🟨 SQL</td>
+    <td>30%</td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=python" width="20"/> Python</td>
-    <td><img src="https://progress-bar.dev/10/?scale=100&width=200&color=babaca&suffix=%20" /></td>
+    <td>🐍 Python</td>
+    <td>10%</td>
   </tr>
 
 </table>
