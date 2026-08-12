@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/GitHub-EnzoPecorareBassi-111827?style=flat-square&logo=github&logoColor=00F0FF"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=EnzoPecorareBassi&style=flat-square&color=00f0ff&label=PROFILE+VIEWS"/>
+
 
 </div>
 
