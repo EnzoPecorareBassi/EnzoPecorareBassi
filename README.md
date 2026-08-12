@@ -35,6 +35,8 @@ current_phase:
   - "Improving"
 ```
 ---
+<div align="center">
+
 <table>
   <tr>
     <th align="left">Área</th>
@@ -57,6 +59,8 @@ current_phase:
     <td align="center">10%</td>
   </tr>
 </table>
+
+</div>
 
 ---
 
