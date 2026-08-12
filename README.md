@@ -35,6 +35,7 @@ current_phase:
 ```
 
 <table>
+ 
   <tr>
     <th>Área</th>
     <th>Conhecimento</th>
@@ -53,8 +54,9 @@ current_phase:
   </tr>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=python" width="20"/> Python</td>
-    <td><img src="https://img.shields.io/badge/-Iniciando-babaca?style=flat-square"/></td>
+    <td><img src="https://progress-bar.dev/10/?scale=100&width=200&color=babaca&suffix=%20" /></td>
   </tr>
+
 </table>
 
 ---
