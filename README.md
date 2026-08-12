@@ -27,6 +27,7 @@ developer:
   field: "Computer Science"
   semester: "2nd Semester"
   location: "Brazil 🇧🇷"
+  
 current_phase:
   - "Learning"
   - "Building"
