@@ -45,19 +45,15 @@ current_phase:
   </tr>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=css" width="20"/> CSS</td>
-    <td><img src="https://progress-bar.dev/80/?scale=100&width=200&color=babaca&suffix=%20" /></td>
+    <td><img src="https://progress-bar.dev/85/?scale=100&width=200&color=babaca&suffix=%20" /></td>
   </tr>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=mysql" width="20"/> SQL</td>
-    <td><img src="https://progress-bar.dev/40/?scale=100&width=200&color=babaca&suffix=%20" /></td>
+    <td><img src="https://progress-bar.dev/30/?scale=100&width=200&color=babaca&suffix=%20" /></td>
   </tr>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=python" width="20"/> Python</td>
-    <td><img src="https://progress-bar.dev/15/?scale=100&width=200&color=babaca&suffix=%20" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=git,github" width="20"/> Git / GitHub</td>
-    <td><img src="https://progress-bar.dev/60/?scale=100&width=200&color=babaca&suffix=%20" /></td>
+    <td><img src="https://img.shields.io/badge/-Iniciando-babaca?style=flat-square"/></td>
   </tr>
 </table>
 
