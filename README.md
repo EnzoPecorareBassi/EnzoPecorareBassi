@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0b1020,100:00f0ff&height=200&section=header&text=ENZO%20PECORARE%20BASSI&fontSize=38&fontColor=00F0FF&animation=fadeIn&fontAlignY=35&desc=COMPUTER%20SCIENCE%20STUDENT%20%7C%20DEVELOPER%20IN%20PROGRESS&descAlignY=58&descSize=15&descColor=8BE9FD" width="100%"/>
   
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=105&lines=%3E+SYSTEM+INITIALIZING...;%3E+COMPUTER+SCIENCE+STUDENT+%7C+2ND+SEMESTER;%3E+HTML+%7C+CSS+%7C+SQL+%7C+PYTHON;%3E+LEARNING.+BUILDING.+EVOLVING." alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=110&lines=%3E+SYSTEM+INITIALIZING...;%3E+COMPUTER+SCIENCE+STUDENT+%7C+2ND+SEMESTER;%3E+HTML+%7C+CSS+%7C+SQL+%7C+PYTHON;%3E+LEARNING.+BUILDING.+EVOLVING." alt="Typing Animation" />
 <br>
 
 <br><br>
