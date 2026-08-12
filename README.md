@@ -59,7 +59,7 @@ current_phase:
 
 ---
 
-# `07 // GITHUB PERFORMANCE`
+#// GITHUB PERFORMANCE`
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=EnzoPecorareBassi&bg_color=050505&color=00F0FF&line=7B61FF&point=00F0FF&area=false&hide_border=true&custom_title=EnzoPecorareBassi%20Contribution%20Graph" width="90%"/>
