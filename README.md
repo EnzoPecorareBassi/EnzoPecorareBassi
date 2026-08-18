@@ -17,7 +17,7 @@
 
 ---
 
-# `> ABOUT_ME.exe`
+# `> Sobre mim.exe`
 
 ## 👨‍💻 Hello, World!
 
